@@ -4,7 +4,7 @@
 - https://direnv.net/
 
 Misc
-- https://logz.io/blog/logstash-tutorial/
+- https://www.elastic.co/guide/en/logstash/current/installing-logstash.html
 - https://dzone.com/articles/centralize-bash-history
 
 ---
