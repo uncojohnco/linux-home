@@ -3,8 +3,14 @@
 - https://github.com/Bash-it/bash-it
 - https://direnv.net/
 
+Misc
+- https://logz.io/blog/logstash-tutorial/
+- https://dzone.com/articles/centralize-bash-history
+
 ---
 
+
+## Clean install
 ```bash
 # install bash-it
 git clone --depth=1 https://github.com/Bash-it/bash-it.git ~/.bash_it && \
