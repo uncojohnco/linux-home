@@ -3,8 +3,10 @@
 - https://github.com/Bash-it/bash-it
 - https://direnv.net/
 
-Misc
+centralize-bash-history
+- https://stackify.com/syslog-101/
 - https://www.elastic.co/guide/en/logstash/current/installing-logstash.html
+- https://www.elastic.co/guide/en/logstash/7.8/running-logstash.html
 - https://dzone.com/articles/centralize-bash-history
 
 ---
